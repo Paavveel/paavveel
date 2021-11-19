@@ -6,7 +6,7 @@
 
 [CLICK HERE](https://paavveel.github.io/portfolio/)
 
-## MY TECHNOLOGY STACK AND TOOLS
+## MY TECHNOLOGY STACK
 
 ![React](/svg/react.svg)
 ![Redux](/svg/redux.svg)
