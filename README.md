@@ -1,10 +1,13 @@
 ## Hi there! 👋 My name is Pavel.
-* 😊 React Frontend Developer.
+
+- 😊 React Frontend Developer.
 
 ## MY PORTFOLIO
-[CLICK HERE](https://paavveel.github.io/portfolio/) 
+
+[CLICK HERE](https://paavveel.github.io/portfolio/)
 
 ## MY TECHNOLOGY STACK AND TOOLS
+
 ![React](/svg/react.svg)
 ![Redux](/svg/redux.svg)
 ![JS](/svg/JS.svg)
@@ -14,9 +17,9 @@
 ![Git](/svg/git.svg)
 ![Git](/svg/vscode.svg)
 
-## MY CONTACTS
-[<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in//)
-[<img src="./svg/twitter.svg">](https://twitter.com/)
+<!-- ## MY CONTACTS -->
+<!-- [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in//) -->
+<!-- [<img src="./svg/twitter.svg">](https://twitter.com/) -->
 
 <!--
 **Paavveel/paavveel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
