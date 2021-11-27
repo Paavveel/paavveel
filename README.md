@@ -15,7 +15,7 @@
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
 ![Git](/svg/git.svg)
-![Git](/svg/vscode.svg)
+<!-- ![Git](/svg/vscode.svg) -->
 
 <!-- ## MY CONTACTS -->
 <!-- [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in//) -->
