@@ -1,6 +1,6 @@
 ## Hi there! 👋 My name is Pavel.
 
-- 😊 React Frontend Developer.
+- 😊 Front-end developer with tech: (React, Redux, JavaScript, TypeScript, REST API, HTML, CSS)
 
 ## MY PORTFOLIO
 
