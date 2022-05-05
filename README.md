@@ -4,7 +4,7 @@
 
 ## MY PORTFOLIO
 
-[CLICK HERE](https://paavveel.github.io/portfolio/)
+[CLICK HERE](https://paveltomilin.vercel.app/)
 
 ## MY TECHNOLOGY STACK
 
