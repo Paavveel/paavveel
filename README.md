@@ -1,6 +1,6 @@
 ## Hi there! 👋 My name is Pavel.
 
-- 😊 Front-end developer with tech: (React, Redux, JavaScript, TypeScript, REST API, HTML, CSS)
+<!-- Frontend developer (React) -->
 
 ## MY PORTFOLIO
 
@@ -15,11 +15,11 @@
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
 ![Git](/svg/git.svg)
-<!-- ![Git](/svg/vscode.svg) -->
+![Git](/svg/vscode.svg)
 
-<!-- ## MY CONTACTS -->
-<!-- [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in//) -->
-<!-- [<img src="./svg/twitter.svg">](https://twitter.com/) -->
+## MY CONTACTS
+[<img src="./svg/Linkedin.svg">](https://linkedin.com/in/pavel-tomilin)
+[<img src="./svg/telegram.svg">](https://t.me/paul_tm)
 
 <!--
 **Paavveel/paavveel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
