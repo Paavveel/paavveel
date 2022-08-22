@@ -1,12 +1,14 @@
-## Hi there! 👋 My name is Pavel.
+# `console.log('Hello World!')`
 
-<!-- Frontend developer (React) -->
+Hi! I'm Pavel 👋
 
-## MY PORTFOLIO
+I'm a frontend developer 👨‍💻
+
+## My Portfolio
 
 [CLICK HERE](https://paveltomilin.vercel.app/)
 
-## MY TECHNOLOGY STACK
+## My Tech Stack
 
 ![React](/svg/react.svg)
 ![Redux](/svg/redux.svg)
@@ -15,11 +17,14 @@
 ![HTML](/svg/html-5.svg)
 ![CSS](/svg/css3.svg)
 ![Git](/svg/git.svg)
-![Git](/svg/vscode.svg)
+![VSCode](/svg/vscode.svg)
 
-## MY CONTACTS
-[<img src="./svg/Linkedin.svg">](https://linkedin.com/in/pavel-tomilin)
-[<img src="./svg/telegram.svg">](https://t.me/paul_tm)
+## My Contacts 💬
+
+- [Telegram](https://t.me/paul_tm)
+- [Send an email](mailto:pa.tomilin@gmail.com)
+  <!-- [<img src="./svg/Linkedin.svg">](https://linkedin.com/in/pavel-tomilin) -->
+  <!-- [<img src="./svg/telegram.svg">](https://t.me/paul_tm) -->
 
 <!--
 **Paavveel/paavveel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
