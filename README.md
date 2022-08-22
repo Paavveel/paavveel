@@ -1,5 +1,3 @@
-# `console.log('Hello World!')`
-
 Hi! I'm Pavel 👋
 
 I'm a frontend developer 👨‍💻
