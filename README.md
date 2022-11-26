@@ -36,18 +36,15 @@
 
 <h1>👋 Привет, я Павел!</h1>
 
-<table>
-<thead>
-<tr>
 <h3>Мой стек</h3>
-</tr>
-</thead>
-<tbody align="center">
+
+<table>
+<tbody>
 <tr>
-<td width="30%">
+<td align="center" width="30%">
 <h6>TypeScript • React • Redux • Redux Toolkit • RTK Query • JavaScript • HTML5 • CSS3 • CSS Modules</h6>
 </td>
-<td>
+<td align="start">
 <img src="https://user-images.githubusercontent.com/65166970/204084623-b5583821-48f0-466a-bb20-bf9ed003183a.svg" height="40px"/>
 <img src="https://user-images.githubusercontent.com/65166970/204084630-ed107114-df29-45bd-9f37-1d39a5a70925.svg" height="40px"/>
 <img src="https://user-images.githubusercontent.com/65166970/204084634-58f8c2d2-fa0a-4046-a625-29521daac9d8.svg" height="40px"/>
@@ -57,38 +54,37 @@
 </td>
 </tr>
 <tr>
-<td>
+<td align="center">
 <h6>Node.js • Express.js • MongoDB</h6>
 </td>
-<td>
+<td align="start>
 <img src="https://user-images.githubusercontent.com/65166970/204084653-700bb90a-fbdb-4708-9a36-49a0164b2bce.svg" height="40px"/>
 <img src="https://user-images.githubusercontent.com/65166970/204084659-499e8030-25bc-4509-b969-8d552fcf3cfa.svg" height="40px"/>
 <img src="https://user-images.githubusercontent.com/61308457/168620785-10c2a65d-ae8e-4ad0-8ae9-99e88e460b41.svg" height="40px"/>
-<img src="https://user-images.githubusercontent.com/65166970/204084667-61ff5278-71b6-4535-ab0a-fb32bd7a4a6c.svg" height="40px"/>
 </td>
 </tr>
 <tr>
-<td>
+<td align="center">
 <h6>Jest</h6>
 </td>
-<td>
+<td align="start>
 <img src="https://user-images.githubusercontent.com/65166970/204084651-5bcc305b-287a-4880-89e4-f9a671b3f67a.svg" height="40px"/>
 </td>
 </tr>
 <tr>
-<td>
+<td align="center">
 <h6>Git • GitHub</h6>
 </td>
-<td>
+<td align="start>
 <img src="https://user-images.githubusercontent.com/65166970/204084684-c76c19ad-0651-4744-81a9-6bbd6521f497.svg" height="40px"/>
 <img src="https://user-images.githubusercontent.com/65166970/204084686-ce87d896-9d70-468d-8451-aba59f9d2559.svg" height="40px"/>
 </td>
 </tr>
 <tr>
-<td>
+<td align="center">
 <h6>Figma</h6>
 </td>
-<td>
+<td align="start>
 <img src="https://user-images.githubusercontent.com/65166970/204084679-72f55863-9313-4a5a-a64b-e61cfb253b79.svg" height="40px"/>
 </td>
 </tr>
