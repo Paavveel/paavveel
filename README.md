@@ -57,7 +57,7 @@
 <td align="center">
 <h6>Node.js • Express.js • MongoDB</h6>
 </td>
-<td align="start>
+<td align="start">
 <img src="https://user-images.githubusercontent.com/65166970/204084653-700bb90a-fbdb-4708-9a36-49a0164b2bce.svg" height="40px"/>
 <img src="https://user-images.githubusercontent.com/65166970/204084659-499e8030-25bc-4509-b969-8d552fcf3cfa.svg" height="40px"/>
 <img src="https://user-images.githubusercontent.com/61308457/168620785-10c2a65d-ae8e-4ad0-8ae9-99e88e460b41.svg" height="40px"/>
@@ -67,7 +67,7 @@
 <td align="center">
 <h6>Jest</h6>
 </td>
-<td align="start>
+<td align="start">
 <img src="https://user-images.githubusercontent.com/65166970/204084651-5bcc305b-287a-4880-89e4-f9a671b3f67a.svg" height="40px"/>
 </td>
 </tr>
@@ -75,7 +75,7 @@
 <td align="center">
 <h6>Git • GitHub</h6>
 </td>
-<td align="start>
+<td align="start">
 <img src="https://user-images.githubusercontent.com/65166970/204084684-c76c19ad-0651-4744-81a9-6bbd6521f497.svg" height="40px"/>
 <img src="https://user-images.githubusercontent.com/65166970/204084686-ce87d896-9d70-468d-8451-aba59f9d2559.svg" height="40px"/>
 </td>
@@ -84,7 +84,7 @@
 <td align="center">
 <h6>Figma</h6>
 </td>
-<td align="start>
+<td align="start">
 <img src="https://user-images.githubusercontent.com/65166970/204084679-72f55863-9313-4a5a-a64b-e61cfb253b79.svg" height="40px"/>
 </td>
 </tr>
