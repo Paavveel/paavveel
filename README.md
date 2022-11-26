@@ -67,7 +67,7 @@
 <td align="center">
 <h6>Jest</h6>
 </td>
-<td">
+<td>
 <img src="https://user-images.githubusercontent.com/65166970/204084651-5bcc305b-287a-4880-89e4-f9a671b3f67a.svg" height="40px"/>
 </td>
 </tr>
