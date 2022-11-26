@@ -34,9 +34,9 @@
 --!>
 
 
-<h1>👋 Привет, я Павел!</h1>
+<h2>👋 Привет, я Павел!</h1>
 
-<h3>Мой стек</h3>
+<h3 align="center">Мой стек</h3>
 
 <table>
 <tbody>
@@ -90,3 +90,50 @@
 </tr>
 </tbody>
 </table>
+
+<h3 align="center">Мои проекты</h3>
+<table>
+  <tbody>
+    <tr>
+      <td colspan="2">
+        <h3 align="center">Hacker News</h3>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="3" width="60%">
+        <a href="https://hacker-news-paavveel.onrender.com/"  title="Открыть Демо">
+          <img src="https://user-images.githubusercontent.com/65166970/204088725-8f67c689-26d2-49cd-ac1f-4d48c5437e54.gif" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/React-202124?logo=react&logoColor=61DAFB&style=flat-square" />
+          <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
+          <img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=flat-square&logo=redux&logoColor=white" />
+          <img src="https://img.shields.io/badge/RTK%20Query-593D88?style=flat-square&logo=redux&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+          <img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/Express.js-464646?style=flat-square&logo=express&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center"><b>О проекте</b></p>
+        <p align="center">
+          📰 Тестовое задание в Avito. Интерфейс для сайта <a href="https://news.ycombinator.com/news">Hacker News</a>.
+          Выводится последние 100 новостей, список новостей обновляется каждые 60 секунд без участия пользователя. По клику на новость попадаем на стриницу новости, где отображаются комметарии, корневые комментарии загружаются сразу, все подкомментарии по клику посомтреть ответы.
+        </p>
+        <div align="right">
+          <a href="https://github.com/Paavveel/hacker-news" title="Перейти в репозиторий проекта">Узнать больше →</a>
+        </div>
+      </td>
+    </tr>
+</tbody>
+</table>
+
