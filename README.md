@@ -103,7 +103,7 @@
     </tr>
     <tr>
       <td rowspan="3" width="60%">
-        <a href="https://hacker-news-paavveel.onrender.com/"  title="Открыть Демо">
+        <a href="https://hacker-news-paavveel.onrender.com/" target="_blank" title="Открыть Демо">
           <img src="https://user-images.githubusercontent.com/65166970/204088725-8f67c689-26d2-49cd-ac1f-4d48c5437e54.gif" />
         </a>
       </td>
