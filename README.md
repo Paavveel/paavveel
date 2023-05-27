@@ -136,6 +136,39 @@
         </div>
       </td>
     </tr>
+ <tr>
+      <td colspan="2">
+        <h3 align="center">Minesweeper</h3>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="3" width="60%">
+        <a href="https://paavveel.github.io/minesweeper/minesweeper" title="Открыть Демо">
+          <img src="https://user-images.githubusercontent.com/65166970/241381339-0abe95c3-cba7-4421-8669-62361d96fce2.gif" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/JavaScript-202124?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center"><b>О проекте</b></p>
+        <p align="center">
+          🐶 Проект выполнен в процессе обучения в <a href="https://rs.school/">RS School</a>.
+          Базовая игра Minesweeper, реализован основной функционал игры: три размера поля с пользовательским выбором количества мин, открытие ячеек (пустые, цифры, мины), рекурсивное открытие пустых ячеек, колор кодинг для ячеек с цифрами. Дополнительный функционал: dark/ligth theme, список последних 10 побед (с сохранением в LocalStorage), сохранение состояния игры при перезагрузке (сохранение в LocalStorage).
+        </p>
+        <div align="right">
+          <a href="https://github.com/Paavveel/minesweeper" title="Перейти в репозиторий проекта">Узнать больше →</a>
+        </div>
+      </td>
+    </tr>
         <tr>
       <td colspan="2">
         <h3 align="center">Shelter</h3>
