@@ -92,6 +92,8 @@
 </table>
 
 <br>
+<img src="https://www.codewars.com/users/Paavveel/badges/small" height="20px"/>
+
 
 <h3 align="center">Мои проекты</h3>
 <table>
