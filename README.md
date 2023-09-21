@@ -102,6 +102,45 @@
 <h3 align="center">Мои проекты</h3>
 <table>
   <tbody>
+   <tr>
+     <tr>
+      <td colspan="2">
+        <h3 align="center">Clothberry</h3>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="3" width="60%">
+        <a href="https://clothberry.netlify.app" title="Открыть Демо">
+          <img src="https://user-images.githubusercontent.com/65166970/204088725-8f67c689-26d2-49cd-ac1f-4d48c5437e54.gif" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div align="center">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-202124?logo=react&logoColor=61DAFB&style=flat-square" />
+          <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
+          <img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=flat-square&logo=redux&logoColor=white" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center"><b>О проекте</b></p>
+        <p align="center">
+          📰 E-commerce SPA приложение, по продаже кастомных вещей, построено на <a href="https://docs.commercetools.com/api/">Commercetools API/a>. Приложение написано в команде из 3 человек, моя роль - Team Lead. Организовывал командную работу (GitHub Projects), проводил code review, так же участвовал в написании кода приложения. Доступны следующие страницы - Home, Catalog, Cart, Profile, About. Реализовано: Регистрация, Авторизация, Поддержание сессии, Редактирование профиля пользователя, Добавление товара в корзину, Основной функционал Корзины, Применение промокодов, lazy-loading изображений, infinite-scroll, модальные окна, toasts, обработка состояний загрузки (loader), обработка ошибок при обращении к API, оптимизация рендеринга React компонентов.
+        </p>
+        <div align="right">
+          <a href="https://github.com/Paavveel/clothberry" title="Перейти в репозиторий проекта">Узнать больше →</a>
+        </div>
+      </td>
+    </tr>
+  </tr>
+ <tr>
     <tr>
       <td colspan="2">
         <h3 align="center">Hacker News</h3>
@@ -210,4 +249,3 @@
     </tr>
 </tbody>
 </table>
-
