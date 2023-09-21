@@ -111,7 +111,7 @@
     <tr>
       <td rowspan="3" width="60%">
         <a href="https://clothberry.netlify.app" title="Открыть Демо">
-          <img src="https://user-images.githubusercontent.com/65166970/204088725-8f67c689-26d2-49cd-ac1f-4d48c5437e54.gif" />
+          <img src="https://github.com/Paavveel/paavveel/assets/65166970/57a21f9b-b45f-4ee2-a122-cade08a0fc1d" />
         </a>
       </td>
     </tr>
